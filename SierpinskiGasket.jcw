@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>SierpinskiGasket</label>
+	</settings>
+	<users>
+		<user>
+			<path>SierpinskiGasket.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>SierpinskiGasket.jcp</path>
+		</project>
+	</projects>
+</workspace>
